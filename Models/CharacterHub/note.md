@@ -1,0 +1,1 @@
+﻿Will be redone into a proper library later
